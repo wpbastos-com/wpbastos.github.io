@@ -13,12 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Infinity Ops
+email: wpbastos@live.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Infinity Ops is a vibrant hub for DevOps enthusiasts and automation experts,
+  dedicated to exploring the boundless possibilities of software development. 
+  It's a community-driven platform where innovation meets practicality, offering
+  insights into CI/CD technologies, automated testing, and efficient system operations.
+  Our mission is to inspire and educate, bridging the gap between development,
+  testing, and operations, while fostering a culture of continuous improvement and collaboration.
+  Join us as we navigate the ever-evolving IT landscape, transforming challenges
+  into opportunities and driving the future of technology forward.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
